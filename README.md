@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/HUGB2016/gens.svg?branch=master)](https://travis-ci.org/HUGB2016/gens)
+[![Build Status](https://travis-ci.org/hakonh92/HakonTicTacToe.svg?branch=master)](https://travis-ci.org/hakonh92/HakonTicTacToe)
 # gens
 Late term group assignment in HUGB 2016 at Reykjavík University.
 
